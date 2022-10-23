@@ -4,7 +4,8 @@
   "description": "Crawler",
   "main": "src/main.js",
   "scripts": {
-    "start": "nodemon --inspect ./src/main.js localhost 3000",
+    "dev": "nodemon --inspect ./src/main.js localhost 3000",
+        "start": "node ./src/main.js",
     "watch": "node-sass --watch src/resources/scss/ --output src/public/css/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
