@@ -22,10 +22,10 @@
     "exceljs-fixed-font": "^1.12.2",
     "express": "^4.18.2",
     "express-handlebars": "^6.0.6",
+    "morgan": "^1.10.0",
     "request-promise": "^4.2.6"
   },
   "devDependencies": {
-    "morgan": "^1.10.0",
     "node-sass": "^7.0.3",
     "nodemon": "^2.0.20"
   }
